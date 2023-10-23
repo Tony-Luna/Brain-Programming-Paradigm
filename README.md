@@ -12,3 +12,4 @@ Describe how to set up the environment and install necessary packages:
 
 ```bash
 pip install -r requirements.txt
+```
